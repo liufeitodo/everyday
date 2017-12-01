@@ -1,4 +1,4 @@
-﻿###git使用
+﻿###git使用笔记
 1. 查看版本
 git --version
 
