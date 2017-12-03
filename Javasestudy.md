@@ -97,7 +97,16 @@ System.out.println(str); //"a<b"
 快捷键
 jar包
 
-12. 
+12. if语句 单选双选 多选择结构
 
+13. switch 语句
+一般在每个 case后面加上break 防止出现 case穿透现象
+switch语句表达式 只能是int, 或者能自动转换int的 类型（char byte short）,枚举。
+JDK7.0新增 字符串
+
+14. while循环语句 do while循环语句
+先判断狗执行   先执行后判断
+
+15. for循环语句
 
 　　
